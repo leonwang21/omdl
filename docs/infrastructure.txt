@@ -1,0 +1,39 @@
+1. Infrastructure
+git
+Sublime
+Chrome/FF
+
+HTML5/CSS3
+JavaScript/jQuery
+Ruby 2.2.3?1.9.3?
+Rails
+JSON
+
+Apache/Nginx + Passenger
+https://www.phusionpassenger.com/
+
+1.1 Style guide
+Ruby - https://github.com/bbatsov/ruby-style-guide
+HTML&CSS - https://google.github.io/styleguide/htmlcssguide.xml
+JS - https://github.com/airbnb/javascript
+
+1.1 Sublime plugins
+
+========================
+2. Working mode
+Scrum
+1 week/sprint?
+Pair work
+1 hour/day/person?
+
+========================
+3. User stories
+Team analysis and decide USs
+Each US will be considered as two parts: frontend(fUS) and backend(bUS)
+The interfaces between frontend and backend must be designed and agreed
+Effort for each US(fUS/bUS) is less than 1w?5h?
+
+3.1 US-frontend
+US-frontend must design the UI
+3.2 US-backend
+US-backend must design the DB or file system
